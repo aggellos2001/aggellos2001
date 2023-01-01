@@ -1,14 +1,8 @@
-<!-- omit from toc -->
 ## 👋🏻 Welcome to my GitHub profile!
 
-**My name is Michail Angelos Tsiantakis but I know you probably have a hard time reading it you can also call me Michael instead.**
+Available also in: [Greek/Ελληνικά](README_gr.md).
 
-<!-- omit from toc
-### Boring table of contents 
-- [Boring table of contents](#boring-table-of-contents)
-- [🗣️Languages (not the programming ones)](#️languages-not-the-programming-ones)
-- [💻 the programming ones](#-the-programming-ones)
-- [🌐Social Media](#social-media) -->
+**My name is Michail Angelos Tsiantakis but I know you probably have a hard time reading that so you can also call me Michael instead if you prefer.**
 
 ### 🗣️ Languages (not the programming ones)
 
@@ -27,7 +21,7 @@
 
 ### 📚 What I am currently learning
 
-🎓 I am planning to graduate from university the following June/July 2023. Currently studying for my bachelor's degree in [Computer Science at the University of Thessaly in the Department of Digital Systems.](https://ds.uth.gr/en/home/)
+🎓 I am planning to graduate in June/July 2023 from [the Department of Digital Systems.](https://ds.uth.gr/en/home/)
 
 ### 📫 How to reach me
 
