@@ -9,7 +9,7 @@ Available also in: [Greek/Ελληνικά](README_gr.md).
 * Greek (native)
 * English (intermediate, what you read right now)
 
-### 💻 the programming ones
+### 🗣️💻 The programming ones
 
 * Python (intermediate)
 * Java / Kotlin (intermediate)
@@ -25,7 +25,7 @@ Available also in: [Greek/Ελληνικά](README_gr.md).
 
 ### 📫 How to reach me
 
-#### 🌐Social Media
+#### 🌐 Social Media
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aggellos2001)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsiantakis/)
