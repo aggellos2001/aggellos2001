@@ -21,13 +21,13 @@
 * Java / Kotlin (intermediate)
 * Go (basic, I'm still learning)
 * C/C++ (basic / and super basic)
-* HTML / CSS (can write a website, but I'm not a designer)
+* HTML / CSS (can write a website, but I am not a designer)
 * PHP (basic to intermediate)
-* JavaScript (intermediate, don't use it often)
+* JavaScript (intermediate, do not use it often)
 
-### 📚 What I'm currently learning
+### 📚 What I am currently learning
 
-🎓 I am planning to graduate from university the following June/July 2023. I am currently studying for my bachelor's degree in [Computer Science at the University of Thessaly in the Department of Digital Systems.](https://ds.uth.gr/en/home/)
+🎓 I am planning to graduate from university the following June/July 2023. Currently studying for my bachelor's degree in [Computer Science at the University of Thessaly in the Department of Digital Systems.](https://ds.uth.gr/en/home/)
 
 ### 📫 How to reach me
 
