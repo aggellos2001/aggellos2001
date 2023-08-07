@@ -19,10 +19,6 @@ Available also in: [Greek/Ελληνικά](README_gr.md).
 * PHP (basic to intermediate)
 * JavaScript (intermediate, do not use it often)
 
-### 📚 What I am currently learning
-
-🎓 I am planning to graduate in June/July 2023 from [the Department of Digital Systems.](https://ds.uth.gr/en/home/)
-
 ### 📫 How to reach me
 
 #### 🌐 Social Media
