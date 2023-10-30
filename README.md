@@ -7,7 +7,7 @@ Available also in: [Greek/Ελληνικά](README_gr.md).
 ### 🗣️ Languages (not the programming ones)
 
 * Greek (native)
-* English (intermediate, what you read right now)
+* English (TOEIC Proficiency Score: 980/990)
 
 ### 🗣️💻 The programming ones
 
