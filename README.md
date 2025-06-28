@@ -1,28 +1,25 @@
 ## 👋🏻 Welcome to my GitHub profile!
 
-Available also in: [Greek/Ελληνικά](README_gr.md).
+Also available in: [Greek/Ελληνικά](README_gr.md).
 
-**My name is Michail Angelos Tsiantakis but I know you probably have a hard time reading that so you can also call me Michael instead if you prefer.**
+**My name is Michail Angelos Tsiantakis**
 
 ### 🗣️ Languages (not the programming ones)
 
 * Greek (native)
-* English (TOEIC Proficiency Score: 980/990)
+* English (TOEIC Score: 980/990)
 
 ### 🗣️💻 The programming ones
 
-* Python (intermediate)
-* Java / Kotlin (intermediate)
-* Go (basic, I'm still learning)
-* C/C++ (basic / and super basic)
-* HTML / CSS (can write a website, but I am not a designer)
-* PHP (basic to intermediate)
-* JavaScript (intermediate, do not use it often)
+* I prefer using compiled languages like Go, Java, Kotlin, C.
+* But I also have knowledge of Python.
+* I have a bit of knowledge for Dart and Flutter.
 
 ### 📫 How to reach me
 
 #### 🌐 Social Media
 
-[![](https://img.shields.io/badge/X(formerly&nbsp;Twitter)-%2312100E.svg?&style=for-the-badge&logo=x)](https://twitter.com/aggellos2001)
-[![](https://img.shields.io/badge/Mastodon-_%20?style=for-the-badge&logo=mastodon&logoColor=white&color=6364FF)](https://mastodon.social/@aggellos2001)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtsiantakis/)
+
+#### ✉️ Email
+git@tsiantakis.com
